@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_pwd">Enter password</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_first_name">Enter first name</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_sign_up">No account yet? Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="hint_state">Enter state</string>
+    <string name="hint_mobile_number">Enter mobile number</string>
+    <string name="hint_secret_answer">Enter secret answer</string>
+    <string name="register">register</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="hint_reset_token">Enter token receieved</string>
+    <string name="login_error_feedback">Please check your login input</string>
+    <string name="loading_message">Loading, pls wait</string>
+    <string name="reset_mail_success">Please check your mail for token to reset password</string>
+    <string name="register_error_feedback">There are errors with one or more of your input</string>
+    <string name="connecting">Connecting...</string>
+    <string name="hint_last_name">Enter last name</string>
+    <string name="hint_user_name">Enter your username</string>
+    <string name="order_status">Pending</string>
+    <string name="label_order">Orders</string>
+    <string name="label_total">So far</string>
+</resources>

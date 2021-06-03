@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base"/>
+
+    <style name="FoodGig.DayNight.Authenticate" parent="Base">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+
+    <style name="FoodGig.DayNight.Main" parent="Base">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+    </style>
+
+
+
+</resources>
